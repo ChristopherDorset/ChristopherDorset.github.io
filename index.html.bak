@@ -58,10 +58,7 @@
 				<section id="intro" class="wrapper style1">
 					<div class="title">The Introduction</div>
 					<div class="container">
-						<p class="style1">Im currently a games programming student at staffordshire university with experiance in unity, unreal,visual basic, and c++
-						
-						
-						</p>
+						<p class="style1">So in case you were wondering what this is all about ...</p>
 						<!--<p class="style2">
 							Escape Velocity is a free responsive<br class="mobile-hide" />
 							site template by <a href="http://html5up.net" class="nobr">HTML5 UP</a>
@@ -89,6 +86,7 @@
 							<section id="features">
 								<header class="style1">
 									<h2>Skills</h2>
+									<p>These are skills</p>
 								</header>
 								<div class="feature-list">
 									<div class="row">
